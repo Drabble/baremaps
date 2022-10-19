@@ -96,10 +96,7 @@ If you change multiple different things that aren't related at all, try to
 make several smaller commits. This is much easier to review.
 
 Before making a pull request, check that your source code is formatted according to the rules defined in the `codestyle.xml` file. 
-This file can typically used to [configure](https://www.jetbrains.com/help/idea/settings-code-style.html) your favourite IDE.
+This file can typically be used to [configure](https://www.jetbrains.com/help/idea/settings-code-style.html) your favourite IDE.
 You can run `mvn spotless:apply` to format your code automatically.
 Finally, verify that your contribution passes all the tests (integration included).
-Once your everything looks good, we'll merge it.
-
-
-
+Once everything looks good, we'll merge it.
