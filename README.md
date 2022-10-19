@@ -1,10 +1,8 @@
 # Baremaps
 
-![Java CI](https://github.com/baremaps/baremaps/workflows/Java%20CI/badge.svg)
-
-![example workflow](https://github.com/baremaps/baremaps/actions/workflows/build.yml/badge.svg)
-![example workflow](https://github.com/baremaps/baremaps/actions/workflows/release.yml/badge.svg)
-![example workflow](https://github.com/baremaps/baremaps/actions/workflows/analyze.yml/badge.svg)
+![Build workflow](https://github.com/baremaps/baremaps/actions/workflows/build.yml/badge.svg)
+![Release workflow](https://github.com/baremaps/baremaps/actions/workflows/release.yml/badge.svg)
+![Analyze workflow](https://github.com/baremaps/baremaps/actions/workflows/analyze.yml/badge.svg)
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=baremaps_baremaps&metric=alert_status)](https://sonarcloud.io/dashboard?id=baremaps_baremaps)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=baremaps_baremaps&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=baremaps_baremaps)
